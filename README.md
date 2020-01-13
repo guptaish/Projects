@@ -5,7 +5,7 @@ Project repository consist of two bots
 
 
 1.Amazon Flash Sale Bot.
-This bot is generally used for adding product in flash sales.It automatically refreshes web page until the price change.
+This bot is generally used for adding product to cart in flash sales.It automatically refreshes web page until the price change.
 this program is built using selenium web driver.
 
 How to use:-
